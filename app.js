@@ -2,5 +2,6 @@ const a = "hello"
 console.log(a)
 console.log(`trycatch`)
 let s  = `block`
-//test package deploy
-// observing merge conflict
+
+let saccharin01 = "TEAM-1 chief"
+let confilct = "충돌점 예상중"
